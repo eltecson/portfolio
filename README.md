@@ -36,6 +36,6 @@ Designed to showcase my projects, skills, and development journey as a Full-Stac
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/eltecson/portfolio.git
 cd portfolio
 ```
