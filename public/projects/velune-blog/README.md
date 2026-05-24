@@ -1,6 +1,6 @@
 ## Overview
 
-BlogCore is a planned full-stack blog application designed to explore modern web development workflows through a realistic content management system.
+Velune is a planned full-stack blog application designed to explore modern web development workflows through a realistic content management system.
 
 The project aims to simulate the core functionality of a production-style blogging platform, including dynamic content rendering, CRUD operations, routing, and database interaction, while maintaining a clean and scalable architecture.
 
@@ -24,7 +24,7 @@ As a result, developers may understand individual tools but struggle to combine 
 
 ## The Solution
 
-BlogCore is planned as a structured demo application that combines frontend and backend technologies into a unified blogging platform.
+Velune is planned as a structured demo application that combines frontend and backend technologies into a unified blogging platform.
 
 The project will implement core content management functionality such as creating, editing, deleting, and rendering blog posts while emphasizing clean architecture, reusable components, and modern development practices.
 

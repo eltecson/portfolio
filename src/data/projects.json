@@ -29,14 +29,14 @@
     "extensionLink": null,
     "firefoxAddonLink": null
   },
-  "blog-core": {
-    "title": "Blog Core (Demo Blog App)",
+  "velune-blog": {
+    "title": "Velune (Blog App)",
     "screenshots": null,
     "shortExcerpt": "A full-stack blog application featuring post creation, editing, deletion, and dynamic rendering — built as a demo project to explore modern web development workflows.",
     "techStack": null,
     "status": "In Progress",
-    "githubLink": "https://github.com/eltecson/blog-core#readme",
-    "readmeSrc": "/projects/blog-core/README.md",
+    "githubLink": "https://github.com/eltecson/velune-blog#readme",
+    "readmeSrc": "/projects/velune-blog/README.md",
     "liveDemoLink": null,
     "extensionLink": null,
     "firefoxAddonLink": null
